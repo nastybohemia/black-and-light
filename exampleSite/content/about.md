@@ -3,27 +3,7 @@ title = "About Hugo"
 date = "2014-04-09"
 +++
 
-Hugo is a static site engine written in Go.
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+My name is Sofia Popova, and I express myself through art and tech.
+One of my first interests as a kid was storytelling. I started by writing comics and small news features for my family.
+Screenwriting laid my carrier in film. And now, for over a decade in the film industry, I have experienced being a producer, video editor, colorist, film director, and screenwriter. During this time, I created over three hundred video works.
+After school, I acquired a technical background in IT with system, network & database administration, full-stack & blockchain development, cloud & quantum computing, penetration testing & cybersecurity. All this knowledge led me to build products and learn more about business, marketing, and sales. Through the business side, I have learned the importance of research, planning, and execution. I am now looking to use my knowledge to help others achieve their goals, and my dedication is to make the world a better place.
